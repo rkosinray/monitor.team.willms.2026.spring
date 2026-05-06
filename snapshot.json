@@ -1,0 +1,58 @@
+[
+  {
+    "date": "11/04/2026",
+    "time": "9:20 AM",
+    "location": "SAP MINI 4",
+    "home_away": "AWAY",
+    "opponent": "COLEMAN"
+  },
+  {
+    "date": "18/04/2026",
+    "time": "9:20 AM",
+    "location": "SAP MINI 4",
+    "home_away": "AWAY",
+    "opponent": "Coleman"
+  },
+  {
+    "date": "25/04/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 2",
+    "home_away": "HOME",
+    "opponent": "Keller"
+  },
+  {
+    "date": "02/05/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 1",
+    "home_away": "AWAY",
+    "opponent": "Coleman"
+  },
+  {
+    "date": "09/05/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 1",
+    "home_away": "HOME",
+    "opponent": "BOND"
+  },
+  {
+    "date": "23/05/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 2",
+    "home_away": "AWAY",
+    "opponent": "COLEMAN"
+  },
+  {
+    "date": "30/05/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 3",
+    "home_away": "AWAY",
+    "opponent": "BORODII"
+  },
+  {
+    "date": "06/06/2026",
+    "time": "10:40 AM",
+    "location": "SAP MINI 1",
+    "home_away": "AWAY",
+    "opponent": "KELLER"
+  }
+]

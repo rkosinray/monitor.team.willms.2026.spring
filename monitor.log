@@ -1,0 +1,60 @@
+2026-05-06 09:24:58,196  INFO      Changes detected:
+Willms game update detected in Google Doc!
+
+ADDED:
+  + WILLMS
+  + Willms
+  + Willms
+  + Willms
+  + WILLMS
+  + WILLMS
+  + WILLMS
+  + WILLMS
+
+2026-05-06 09:27:33,257  ERROR     Failed to fetch document: HTTP Error 500: Internal Server Error
+2026-05-06 09:28:55,584  INFO      Changes detected:
+Willms game schedule change detected!
+
+ADDED:
+  + 11/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  COLEMAN
+  + 18/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  Coleman
+  + 25/04/2026  10:40 AM  |  SAP MINI 2      |  HOME  vs  Keller
+  + 02/05/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  Coleman
+  + 09/05/2026  10:40 AM  |  SAP MINI 1      |  HOME  vs  BOND
+  + 23/05/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  COLEMAN
+  + 30/05/2026  10:40 AM  |  SAP MINI 3      |  AWAY  vs  BORODII
+  + 06/06/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  KELLER
+
+2026-05-06 09:42:23,879  INFO      Changes detected:
+Willms game schedule change detected!
+
+ADDED:
+  + 11/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  COLEMAN
+  + 18/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  Coleman
+  + 25/04/2026  10:40 AM  |  SAP MINI 2      |  HOME  vs  Keller
+  + 02/05/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  Coleman
+  + 09/05/2026  10:40 AM  |  SAP MINI 1      |  HOME  vs  BOND
+  + 23/05/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  COLEMAN
+  + 30/05/2026  10:40 AM  |  SAP MINI 3      |  AWAY  vs  BORODII
+  + 06/06/2026  10:40 AM  |  SAP MINI 1      |  AWAY  vs  KELLER
+
+2026-05-06 09:42:25,012  INFO      Email notification sent to i.am.firah@gmail.com
+2026-05-06 09:43:40,707  WARNING   HTTP 500 on attempt 1 — retrying in 5s…
+2026-05-06 09:43:47,421  INFO      Changes detected:
+Willms game schedule change detected!
+
+ADDED:
+  + 18/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  Coleman
+
+REMOVED:
+  - 18/04/2026   9:20 AM  |  SAP MINI 3      |  AWAY  vs  Coleman
+2026-05-06 09:43:48,003  ERROR     Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-83967dbf0cesm7787069b3a.46 - gsmtp')
+2026-05-06 09:45:07,950  INFO      Changes detected:
+Willms game schedule change detected!
+
+ADDED:
+  + 18/04/2026   9:20 AM  |  SAP MINI 4      |  AWAY  vs  Coleman
+
+REMOVED:
+  - 18/04/2026  10:40 AM  |  SAP MINI 3      |  AWAY  vs  Coleman
+2026-05-06 09:45:09,086  INFO      Email notification sent to i.am.firah@gmail.com
