@@ -16,7 +16,7 @@
   {
     "date": "25/04/2026",
     "time": "10:40 AM",
-    "location": "SAP MINI 3",
+    "location": "SAP MINI 2",
     "home_away": "HOME",
     "opponent": "Keller"
   },
@@ -37,14 +37,14 @@
   {
     "date": "23/05/2026",
     "time": "10:40 AM",
-    "location": "SAP MINI 3",
+    "location": "SAP MINI 1",
     "home_away": "AWAY",
     "opponent": "COLEMAN"
   },
   {
     "date": "30/05/2026",
     "time": "10:40 AM",
-    "location": "SAP MINI 2",
+    "location": "SAP MINI 3",
     "home_away": "AWAY",
     "opponent": "BORODII"
   },
