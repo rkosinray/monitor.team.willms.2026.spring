@@ -142,17 +142,18 @@ def _format_game(g: dict) -> str:
 def send_email(subject: str, body: str) -> None:
     if not EMAIL_TO or not EMAIL_FROM:
         return
+    recipients = [addr.strip() for addr in EMAIL_TO.split(",") if addr.strip()]
     try:
         msg = MIMEMultipart()
         msg["From"] = EMAIL_FROM
-        msg["To"] = EMAIL_TO
+        msg["To"] = ", ".join(recipients)
         msg["Subject"] = subject
         msg.attach(MIMEText(body, "plain"))
         with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
             server.starttls()
             server.login(EMAIL_FROM, EMAIL_PASSWORD)
-            server.send_message(msg)
-        log.info("Email notification sent to %s", EMAIL_TO)
+            server.sendmail(EMAIL_FROM, recipients, msg.as_string())
+        log.info("Email notification sent to %s", ", ".join(recipients))
     except Exception as exc:
         log.error("Failed to send email: %s", exc)
 
